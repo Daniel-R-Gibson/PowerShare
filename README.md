@@ -21,7 +21,7 @@ Because a powerpoint is saved and displayed locally, the UserShare copy (and any
 - The PowerShare tool uses The PowerShare PowerPoint document as the focus for all of the other documents in the PowerShare directory. 
 
 
-![Image](pictures/File-Explorer PS.png)
+![Image](./pictures/File-Explorer PS.png)
 
 
 - All end-user facing elements are MS Office applications, enabling any user to easily understand the tool. These other documents in the PowerShare directory are also all linked to the PowerShare PowerPoint document--thus preventing any documents from de-syncing with the Master File before it gets copied over to the local desktop. 
