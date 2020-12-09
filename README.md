@@ -27,7 +27,8 @@ Because a powerpoint is saved and displayed locally, the UserShare copy (and any
 - All end-user facing elements are MS Office applications, enabling any user to easily understand the tool. These other documents in the PowerShare directory are also all linked to the PowerShare PowerPoint document--thus preventing any documents from de-syncing with the Master File before it gets copied over to the local desktop. 
 
 
-![Image](/PowerShare/pictures/slide1.png) ![Image](/PowerShare/pictures/slide2.png)
+![Image](/PowerShare/pictures/slide1.png) 
+![Image](/PowerShare/pictures/slide2.png)
 
 
 - This PowerShare PowerPoint Document is also the document that the Auto_Updater script copys to the Displaying workstation whenever a change is detected on the PowerShare Directory.
