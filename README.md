@@ -39,7 +39,7 @@ Because a powerpoint is saved and displayed locally, the UserShare copy (and any
 - The PowerShare package also includes an installer and Read Me which guide the Admin through the process of installing, maintaining, and updating the PowerShare Utility.
 
 
-![Image](daniel-r-gibson.github.io/powershare/pictures/installer1 ps.png)
+![Image](/PowerShare/pictures/installer1 ps.png)
 
 
 - Additionally, The Powershare package also includes a script that continually checks for connectivity to the Network Drive and launches a warning if a connection is not detected. 
