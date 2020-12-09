@@ -21,7 +21,7 @@ Because a powerpoint is saved and displayed locally, the UserShare copy (and any
 - The PowerShare tool uses The PowerShare PowerPoint document as the focus for all of the other documents in the PowerShare directory. 
 
 
-![Image](daniel-r-gibson.github.io/powershare/pictures/file-explorer ps.jpeg)
+![Image](daniel-r-gibson.github.io/powershare/pictures/file-explorer ps.png)
 
 
 - All end-user facing elements are MS Office applications, enabling any user to easily understand the tool. These other documents in the PowerShare directory are also all linked to the PowerShare PowerPoint document--thus preventing any documents from de-syncing with the Master File before it gets copied over to the local desktop. 
@@ -39,7 +39,7 @@ Because a powerpoint is saved and displayed locally, the UserShare copy (and any
 - The PowerShare package also includes an installer and Read Me which guide the Admin through the process of installing, maintaining, and updating the PowerShare Utility.
 
 
-![Image](daniel-r-gibson.github.io/powershare/pictures/file-explorer ps.jpeg)
+![Image](daniel-r-gibson.github.io/powershare/pictures/installer1 ps.png)
 
 
 - Additionally, The Powershare package also includes a script that continually checks for connectivity to the Network Drive and launches a warning if a connection is not detected. 
