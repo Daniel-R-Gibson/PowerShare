@@ -41,7 +41,7 @@ Because a powerpoint is saved and displayed locally, the UserShare copy (and any
 ![Image](/PowerShare/pictures/installer2 ps.png)
 
 
-- Additionally, The Powershare package also includes a script that continually checks for connectivity to the Network Drive and launches a warning if a connection is not detected. 
+- Additionally, The Powershare package includes a script that continually checks for connectivity to the Network Drive and launches a warning if a connection is not detected. 
 
 
 ![Image](/PowerShare/pictures/warning.PNG) 
