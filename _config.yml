@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 description: The PowerShare is a lightweight information dissemination tool I developed for The DJC2 (DoD). 
+github:
+  is_project_page: false
